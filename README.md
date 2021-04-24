@@ -1,1 +1,1 @@
-# es
+  bot.user.setActivity("CodeFamily | +help", {type: "WATCHING"});
